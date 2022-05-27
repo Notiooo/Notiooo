@@ -30,6 +30,7 @@ Besides that:
 
 ### Recent Group Projects
 <!-- RECENT-GROUP-PROJECTS-LIST:START -->
+- [A* Assembly](http://grobert.eu/a-assembly/)
 <!-- RECENT-GROUP-PROJECTS-LIST:END -->
 
 ## Blog Posts :
