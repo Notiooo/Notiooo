@@ -34,4 +34,7 @@ Besides that:
 
 ## Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [The way „The Onion Router&quot; works](http://blog.grobert.eu/the-way-the-onion-router-works/)
+- [What are &quot;Heaps&quot;? &lpar;for dummies&rpar;](http://blog.grobert.eu/what-are-heaps/)
+- [First post about a shark called &quot;blahaj&quot;.](http://blog.grobert.eu/test-post/)
 <!-- BLOG-POST-LIST:END -->
