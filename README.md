@@ -19,6 +19,9 @@ Besides that:
 ### Hall of fame
 > I think I'm proud of them in some way. At least for the time they were created
 <!-- HALL-OF-FAME-LIST:START -->
+- [Worms Similar Game](http://grobert.eu/worms-similar-game/)
+- [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
+- [Grammar](http://grobert.eu/grammar/)
 <!-- HALL-OF-FAME-LIST:END -->
 
 ### Recent Individual Projects
