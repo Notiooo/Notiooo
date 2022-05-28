@@ -22,6 +22,7 @@ Besides that:
 - [Worms Similar Game](http://grobert.eu/worms-similar-game/)
 - [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
 - [Grammar](http://grobert.eu/grammar/)
+- [FlapANN](http://grobert.eu/flapann/)
 <!-- HALL-OF-FAME-LIST:END -->
 
 ### Recent Individual Projects
