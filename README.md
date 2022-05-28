@@ -33,6 +33,8 @@ Besides that:
 
 ### Recent Group Projects
 <!-- RECENT-GROUP-PROJECTS-LIST:START -->
+- [FlapANN](http://grobert.eu/flapann/)
+- [Nizer](http://grobert.eu/nizer/)
 - [A* Assembly](http://grobert.eu/a-assembly/)
 <!-- RECENT-GROUP-PROJECTS-LIST:END -->
 
