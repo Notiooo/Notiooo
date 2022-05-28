@@ -15,7 +15,7 @@ Besides that:
 - Computer graphics is my hobby.
 - ...although I also try to play the piano in my spare time.
 
-## Projects can be seen on my website
+## Projects that can be found on my website
 ### Hall of fame
 > I think I'm proud of them in some way. At least for the time they were created
 <!-- HALL-OF-FAME-LIST:START -->
