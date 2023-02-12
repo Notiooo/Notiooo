@@ -27,6 +27,7 @@ Besides that:
 
 ### Recent Individual Projects
 <!-- RECENT-INDIVIDUAL-PROJECTS-LIST:START -->
+- [MakeFarm](http://grobert.eu/makefarm/)
 - [Worms Similar Game](http://grobert.eu/worms-similar-game/)
 - [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
 - [Grammar](http://grobert.eu/grammar/)
