@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "10"
+          max_post_count: "15"
           comment_tag_name: "HALL-OF-FAME-LIST"
           disable_sort: true
           feed_list: "https://grobert.eu/feed/hall-of-fame/"
