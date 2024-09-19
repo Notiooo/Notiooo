@@ -20,6 +20,7 @@ Besides that:
 > I think I'm proud of them in some way. At least for the time they were created
 <!-- HALL-OF-FAME-LIST:START -->
 - [MakeFarm](http://grobert.eu/makefarm/)
+- [AimGL](http://grobert.eu/aimgl/)
 - [Worms Similar Game](http://grobert.eu/worms-similar-game/)
 - [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
 - [Grammar](http://grobert.eu/grammar/)
