@@ -29,11 +29,12 @@ Besides that:
 
 ### Recent Individual Projects
 <!-- RECENT-INDIVIDUAL-PROJECTS-LIST:START -->
-- [Google Benchmark Plotter &lpar;BPlotter&rpar;](http://grobert.eu/google-benchmark-plotter-bplotter/)
 - [Voxel Techniques](http://grobert.eu/voxel-techniques/)
 - [AimGL](http://grobert.eu/aimgl/)
 - [MakeFarm](http://grobert.eu/makefarm/)
 - [Worms Similar Game](http://grobert.eu/worms-similar-game/)
+- [Flappy Bird SFML Clone](http://grobert.eu/flappy-bird-sfml-clone/)
+- [Grammar](http://grobert.eu/grammar/)
 <!-- RECENT-INDIVIDUAL-PROJECTS-LIST:END -->
 
 ### Recent Group Projects
